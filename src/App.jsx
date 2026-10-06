@@ -58,7 +58,7 @@ function App() {
           placeholder="Digite uma ideia"
         />
 
-        <button type="submit">Adicionar</button>
+        <button type="submit">Adicionar ideia </button>
       </form>
 
       {erro && <p className="erro">{erro}</p>}
