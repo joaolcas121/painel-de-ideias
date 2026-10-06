@@ -45,7 +45,7 @@ function App() {
 
   return (
     <div className="app">
-      <h1>Painel de Ideias</h1>
+      <h1>💡 Painel de Ideias</h1>
 
       <form onSubmit={aoAdicionar}>
         <input
